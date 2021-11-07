@@ -9,7 +9,7 @@
 
 View one image over another as curtain
 
-![](docs/curtain_screencast.gif)
+![](https://github.com/haesleinhuepf/napari-curtain/raw/main/docs/curtain_screencast.gif)
 
 This [napari] plugin was generated with [Cookiecutter] using [@napari]'s [cookiecutter-napari-plugin] template.
 
