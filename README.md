@@ -25,6 +25,7 @@ You can install `napari-curtain` via [pip]:
 
     pip install napari-curtain
 
+Note: This plugin is not compatible with napari 0.6.0 and later.
 
 ## Contributing
 
